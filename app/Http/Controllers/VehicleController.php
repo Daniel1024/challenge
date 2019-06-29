@@ -8,6 +8,6 @@ class VehicleController extends Controller
 {
     public function listVehicles($modelYear, $manufacturer, $model)
     {
-        
+
     }
 }

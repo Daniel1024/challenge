@@ -62,9 +62,9 @@
     export default {
         data() {
             return {
-                model_year: '2015',
-                manufacturer: 'Audi',
-                model: 'A3',
+                model_year: '',
+                manufacturer: '',
+                model: '',
                 count: 0,
                 withrating: false,
                 results: []
